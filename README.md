@@ -20,7 +20,7 @@
 ---                                                                                 
 ### :man_technologist: About Me : I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ###
                                                                                                                                              
-- :mortar_board: I study on my own html,css и javascript.
+- :mortar_board: I studying on my own html,css и javascript.
 - :film_strip: Constantly trying to improve my skills by watching video tutorials and reading articles.
 - :books: Attending online webinars and trainings                                         
                                                                                                                                              
