@@ -2,9 +2,8 @@
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hi,%20I'm%20Roman%20👋&width=1240&height=175" alt="banner" />
   <p align="left" dir="auto">
   <br/>
-<img 
-  align="left"
-  src="https://readme-typing-svg.demolab.com?font=Doto&size=24&duration=2000&pause=300&color=13990CD6&vCenter=true&multiline=true&repeat=false&width=500&height=224&lines=Frontend+Developer;HTML+%E2%80%A2+CSS+%E2%80%A2+SCSS+%E2%80%A2+JavaScript+%E2%80%A2+BEM;Building+responsive%2C+pixel-perfect+websites;+Moscow+%7C++Open+to+freelance+projects" alt="Typing SVG" />
+<img align="left"
+  src="https://readme-typing-svg.demolab.com?font=Doto&size=24&duration=2000&pause=300&color=13990CD6&vCenter=true&multiline=true&repeat=false&width=500&height=224&lines=Frontend+Developer;HTML+%E2%80%A2+CSS+%E2%80%A2+SCSS+%E2%80%A2;JavaScript+%E2%80%A2+BEM;Building+responsive%2C;pixel-perfect+websites;Moscow+%7C;Open+to+freelance+projects" alt="Typing SVG" />
   <img 
 align="right"
 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRoZjM1djFkdDQ0NnN4NjFiZHNiNHZkMmozbWl2bThodWY3NzhnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cBncDNrdxga2I/giphy.gif" alt="animated GIF"
